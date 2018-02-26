@@ -1,1 +1,2 @@
 Testing git commands
+Just added these lines after first commit
